@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+⚡ I'm a Full Stack Web Developer from Italy 🇮🇹 
+
+📫 If you have something awesome to tell me 💬\
+<git@gianlu.dev>
+
 <!--
 **GianluDeveloper/GianluDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
