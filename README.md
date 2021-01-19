@@ -2,7 +2,7 @@
 
 ⚡ I'm a Full Stack Web Developer from Italy 🇮🇹 
 
-📫 So you have something awesome to tell me? 💬\
+📫 Something to tell me? Write at 💬\
 <git@gianlu.dev>
 
 <!--
